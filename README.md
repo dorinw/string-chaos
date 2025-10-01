@@ -11,3 +11,6 @@ The papers are:
 <b>[2]</b> <a href=https://inspirehep.net/literature/2647254>Measuring chaos in string scattering processes</a>, <i>Phys.Rev.D</i> 108 (2023) 6, 066006
 
 <b>[1]</b> <a href=https://inspirehep.net/literature/2126723>Measure for Chaotic Scattering Amplitudes</a>, <i>Phys.Rev.Lett.</i> 129 (2022) 26, 261601 
+
+In particular,
+- [Multi-dimensional I](multi-dim-1/multi-dim-1.md) — contains animated figures associated with <b>[4]</b>
