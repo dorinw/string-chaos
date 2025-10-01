@@ -13,4 +13,4 @@ The papers are:
 <b>[1]</b> <a href=https://inspirehep.net/literature/2126723>Measure for Chaotic Scattering Amplitudes</a>, <i>Phys.Rev.Lett.</i> 129 (2022) 26, 261601 
 
 In particular,
-- [This page](multi-dim-1/multi-dim-1.md) contains animated figures associated with <b>[4]</b>
+- [This page](multi-dim-1/multi-dim-1.md) displays the animated figures associated with <b>[4]</b>.
