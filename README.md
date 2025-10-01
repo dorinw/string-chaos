@@ -1,6 +1,6 @@
 # String Chaos
 
-This repository is used to upload code, data, and other supplementary material related to a series of papers on chaos in string theory and beyond.
+This repository is used to upload code, data, and other supplementary material related to a series of papers on chaos in string theory and beyond. It is a work in progress.
 
 The papers are:
 
