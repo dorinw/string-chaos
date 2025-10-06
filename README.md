@@ -4,7 +4,7 @@ This repository is used to upload code, data, and other supplementary material r
 
 The papers are:
 
-<b>[4]</b> Multidimensional Chaos I: Classical and Quantum Mechanics [to appear]
+<b>[4]</b> <a href=https://arxiv.org/abs/2510.03007>Multidimensional Chaos I: Classical and Quantum Mechanics</a>, arXiv:hep-th/2510.03007
 
 <b>[3]</b> <a href=https://inspirehep.net/literature/2764014>From spectral to scattering form factor</a>, <i>JHEP</i> 06 (2024) 189
 
