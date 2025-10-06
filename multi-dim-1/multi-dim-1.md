@@ -1,6 +1,6 @@
 # Multi-dimensional Chaos I: Classical and Quantum Mechanics
 
-Here are supplementary animated figures to the paper arXiv:hep-th/2510xxxxx
+Here are supplementary animated figures to the paper <a href=https://arxiv.org/abs/2510.03007>arXiv:hep-th/2510.03007</a>.
 
 <table>
   <tr>
