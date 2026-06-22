@@ -1,6 +1,8 @@
 # String Chaos
 
-This repository is used to upload code, data, and other supplementary material related to a series of papers on chaos in string theory and beyond. It is a work in progress.
+This repository is used to upload code, data, and other supplementary material related to a series of papers on chaos in string theory and beyond.
+
+The page is maintained by [Dorin Weissman](https://inspirehep.net/authors/1670781) on behalf of all the authors. My co-authors are [Massimo Bianchi](https://inspirehep.net/authors/1016416), [Maurizio Firrotta](https://inspirehep.net/authors/1771804), and [Jacob Sonnenschein](https://inspirehep.net/authors/988060).
 
 The papers are:
 
@@ -11,6 +13,8 @@ The papers are:
 <b>[2]</b> <a href=https://inspirehep.net/literature/2647254>Measuring chaos in string scattering processes</a>, <i>Phys.Rev.D</i> 108 (2023) 6, 066006
 
 <b>[1]</b> <a href=https://inspirehep.net/literature/2126723>Measure for Chaotic Scattering Amplitudes</a>, <i>Phys.Rev.Lett.</i> 129 (2022) 26, 261601 
+
+This repository is a work in progress. Releases will correspond to the version of the code used at the time of finalization of preprints or papers in this project.
 
 In particular,
 - [This page](multi-dim-1/multi-dim-1.md) displays the animated figures associated with <b>[4]</b>.
