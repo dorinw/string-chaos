@@ -6,6 +6,8 @@ The page is maintained by [Dorin Weissman](https://inspirehep.net/authors/167078
 
 The papers are:
 
+<b>[5]</b> <a href=https://inspirehep.net/literature/3171494>Multidimensional Chaos II: String scattering amplitudes, curve repulsion, and RMT</a>, arXiv:hep-th/2606.24490
+
 <b>[4]</b> <a href=https://inspirehep.net/literature/3062840>Multidimensional Chaos I: Classical and Quantum Mechanics</a>, arXiv:hep-th/2510.03007
 
 <b>[3]</b> <a href=https://inspirehep.net/literature/2764014>From spectral to scattering form factor</a>, <i>JHEP</i> 06 (2024) 189
@@ -14,7 +16,8 @@ The papers are:
 
 <b>[1]</b> <a href=https://inspirehep.net/literature/2126723>Measure for Chaotic Scattering Amplitudes</a>, <i>Phys.Rev.Lett.</i> 129 (2022) 26, 261601 
 
-This repository is a work in progress. Releases will correspond to the version of the code used at the time of finalization of preprints or papers in this project.
+This repository is a work in progress. Releases correspond to the version of the code used at the time of finalization of the papers in this project. They will be archived also on <a href=https://zenodo.org>Zenodo</a>, where we also upload the numerical data associated with the papers.
 
 In particular,
-- [This page](multi-dim-1/multi-dim-1.md) displays the animated figures associated with <b>[4]</b>.
+- The page [multi-dim-1.md](multi-dim-1/multi-dim-1.md) indexes the code associated with <b>[4]</b>, and displays additional animated figures.
+- The page [multi-dim-2.md](multi-dim-2/multi-dim-2.md) indexes the code associated with <b>[5]</b>. 
